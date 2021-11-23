@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AKSHAY
-- 👀 I’m interested in fullstack web devolopment
-- 🌱 I’m currently learning js
+- 👀 I’m currently in fullstack web devolopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
