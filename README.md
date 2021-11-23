@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKSHAYMOHAN-PYCODER
+- 👋 Hi, I’m @AKSHAY
 - 👀 I’m interested in fullstack web devolopment
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
